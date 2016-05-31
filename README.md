@@ -8,8 +8,8 @@
 用户名列名 username</br>
 密码列名 password</br>
 我放到了com.yl这个包中：
-<jsp:useBean id="dao" class="com.yl.DAO"></jsp:useBean></br>
-<%</br>
+<jsp:useBean id="dao" class="com.yl.DAO"></jsp:useBean>
+<%  </br>
 //getClassForName(String mysqlOrSqlserver)</br>
 //参数必须是"mysql" 或者 "sqlserver" 否则出错,我的是mysql</br>
 String classForName = dao.getClassForName("mysql");</br>
