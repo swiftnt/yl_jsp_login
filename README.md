@@ -7,7 +7,7 @@
 用户表名叫 _User </br>
 用户名列名 username</br>
 密码列名 password</br>
-我放到了com.yl这个包中：</br>
+我放到了com.yl这个包中：
 <jsp:useBean id="dao" class="com.yl.DAO"></jsp:useBean></br>
 <%</br>
 //getClassForName(String mysqlOrSqlserver)</br>
