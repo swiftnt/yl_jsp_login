@@ -1,5 +1,5 @@
 1.如何安装？
-使用的是javaBean，先将DAO.java中的package 改成自己的包名，编译后将编译生成的DAO.class放到自己项目的classes对应的包中，在需要登录注册的页面通过javaBean使用。
+使用的是javaBean，先将DAO.java中的package 改成自己的包名，编译后将编译生成的DAO.class放到自己项目的classes对应的包中，在需要登录注册的页面通过javaBean使用。</br>
 2.如何使用？
 以我的举例，比如我的网站数据库名叫 yl
 数据库用户名叫 root
